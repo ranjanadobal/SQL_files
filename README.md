@@ -1,6 +1,6 @@
 # SQL Data Analysis Projects
-___
-Compilation of SQL data analysis projects and challenges where I practice SQL
+__
+Compilation of SQL data analysis projects and challenges where I practise SQL
 
 ## [PostgreSQL_Bootcamp](PostgreSQL_Bootcamp)
 __
